@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reatproject/static/css/main.a3464cc0.css",
+    "main.js": "/reatproject/static/js/main.48032a80.js",
+    "static/js/453.ad5bca4b.chunk.js": "/reatproject/static/js/453.ad5bca4b.chunk.js",
+    "static/media/gym logo.png": "/reatproject/static/media/gym logo.5f79ddd0e752c0a6c8da.png",
+    "static/media/94e034fd-9635-4e7a-b591-57127fcfc4bc.jpg": "/reatproject/static/media/94e034fd-9635-4e7a-b591-57127fcfc4bc.dbdaa521a9f12145ad71.jpg",
+    "static/media/body.png": "/reatproject/static/media/body.38245f9392ee3f7b17e3.png",
+    "static/media/gym.jpeg": "/reatproject/static/media/gym.3b386dd7051e139cf59d.jpeg",
+    "static/media/gym2.jpg": "/reatproject/static/media/gym2.434051055ad240c09d43.jpg",
+    "static/media/gym5.jpg": "/reatproject/static/media/gym5.183e7497641b453a7cfc.jpg",
+    "static/media/gym3.jpg": "/reatproject/static/media/gym3.4455b5101ff2d6b1cef0.jpg",
+    "static/media/3.jpg": "/reatproject/static/media/3.d8a633cd459a54809e5a.jpg",
+    "static/media/calories.png": "/reatproject/static/media/calories.99b7f9db636c35ef3a6b.png",
+    "static/media/logo.svg": "/reatproject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reatproject/index.html",
+    "main.a3464cc0.css.map": "/reatproject/static/css/main.a3464cc0.css.map",
+    "main.48032a80.js.map": "/reatproject/static/js/main.48032a80.js.map",
+    "453.ad5bca4b.chunk.js.map": "/reatproject/static/js/453.ad5bca4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3464cc0.css",
+    "static/js/main.48032a80.js"
+  ]
+}
