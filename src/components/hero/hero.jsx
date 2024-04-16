@@ -7,6 +7,7 @@ import Heart from "../../pics/heart.png"
 import Calories from "../../pics/calories.png"
 import NumberCounter from 'number-counter'
 
+
 const Hero = () => {
     const transition ={type:'spring', duration:8};
     const mobile=window.innerWidth<=768  ? true : false;
